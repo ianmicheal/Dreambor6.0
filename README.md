@@ -61,4 +61,5 @@ The **OpenBOR Engine** is a reality thanks to:
 * The whole [OpenBOR Team](http://www.ChronoCrash.com) and contributors: [Damon Caskey](https://github.com/DCurrent), [Plombo](https://github.com/plombo), uTunnels, Anallyst, SumolX, KBbandressen, CGRemakes, LordBall, Tails, Fugue, Kirby2K...
 * [Senile Team](http://www.senileteam.com): [Roel](http://www.roelvanmastbergen.nl) aka Opla, Jeroen aka Leila, Sander aka Albatross and Ben.
 * [Neill Corlett](http://www.neillcorlett.com) for the original ports like the first iteration of the [Beats of Rage for Sega Dreamcast](https://github.com/sega-dreamcast/beats-of-rage).
-* [SiZiOUS](http://www.sizious.com/) for this repository, various fixes and documentation for the Sega Dreamcast system.
+* [SiZiOUS](http://www.sizious.com/) various fixes and documentation for the Sega Dreamcast system.
+[Ian micheal](https://github.com/ianmicheal/Dreambor6.0) Added 16/32 bit rendering and fixed loading on nulldc and dreamshell uses less ram 
